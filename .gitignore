@@ -27,3 +27,10 @@
 ._BK-sankey.html
 ._csi_clusterID_table.txt
 .ipynb_checkpoints
+gf_drop_mtx.txt
+spf_drop_mtx.txt
+genematrix
+RDS
+cmp_monocle.rds
+seurat_combined.rds
+.Rproj.user
